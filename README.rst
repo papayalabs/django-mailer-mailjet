@@ -1,5 +1,5 @@
-django-mailer
--------------
+django-mailer-mailjet
+---------------------
 
 .. image:: https://img.shields.io/travis/pinax/django-mailer.svg
     :target: https://travis-ci.org/pinax/django-mailer
