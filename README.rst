@@ -18,10 +18,9 @@ django-mailer
 
 
 
-django-mailer by James Tauber <http://jtauber.com/>
-https://github.com/pinax/django-mailer
+django-mailer-mailjet
 
-A reusable Django app for queuing the sending of email
+A reusable Django app for queuing the sending of email with MailJet
 
 Simple usage instructions:
 
