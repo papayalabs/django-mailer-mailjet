@@ -28,7 +28,7 @@ Simple usage instructions:
 In ``settings.py``:
 ::
 
-    EMAIL_BACKEND = "mailer.backend.DbBackend"
+    EMAIL_BACKEND = "mailer.backend.MailjetBackend"
 
 In a cron job file:
 ::
