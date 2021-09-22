@@ -1,0 +1,7 @@
+include AUTHORS
+include LICENSE
+include CHANGES.rst
+include MANIFEST.in
+include CONTRIBUTING.rst
+include README.rst
+recursive-include docs *

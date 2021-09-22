@@ -1,0 +1,6 @@
+htmlcov/
+build/
+.tox/
+
+MANIFEST
+.coverage
